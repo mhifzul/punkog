@@ -1,0 +1,2 @@
+# punkog
+tea tesnet
